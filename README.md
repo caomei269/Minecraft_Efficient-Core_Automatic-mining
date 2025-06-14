@@ -27,7 +27,7 @@ English | [中文](README_CN.md)
 
 ### Installation
 
-1. Download the latest mod file https://curseforge.com/minecraft/mc-mods/efficient-core-automatic-mining
+1. Download the latest mod file  [curseforge]([LICENSE](https://curseforge.com/minecraft/mc-mods/efficient-core-automatic-mining))
 2. Place the `.jar` file in your `mods` folder
 3. Launch the game
 
