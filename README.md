@@ -59,7 +59,7 @@ English | [中文](README_CN.md)
 ```
 [Iron Block] [Log] [Iron Block]
 [Log] [Iron Axe] [Log]
-[Iron Block] [Redstone] [Iron Block]
+[Iron Block] [Redstone Block] [Iron Block]
 ```
 
 ### How to Use
