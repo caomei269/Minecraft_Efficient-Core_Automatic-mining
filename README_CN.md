@@ -177,7 +177,7 @@ src/
 - 所有贡献者和测试者
 
 ## 📞 联系我们
-- 问题反馈：[Issues]([https://github.com/username/ChunkOreAutoMiner/issues](https://github.com/caomei269/Minecraft_Efficient-Core_Automatic-mining/issues))
+- 问题反馈：[Issues](https://github.com/caomei269/Minecraft_Efficient-Core_Automatic-mining/issues))
 
 
 ---
