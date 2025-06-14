@@ -177,10 +177,8 @@ This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) fi
 - All contributors and testers
 
 ## 📞 Contact
+- Bug Reports: [Issues]([https://github.com/username/ChunkOreAutoMiner/issues](https://github.com/caomei269/Minecraft_Efficient-Core_Automatic-mining/issues))
 
-- Project Homepage: [GitHub](https://github.com/username/ChunkOreAutoMiner)
-- Bug Reports: [Issues](https://github.com/username/ChunkOreAutoMiner/issues)
-- Discussions: [Discussions](https://github.com/username/ChunkOreAutoMiner/discussions)
 
 ---
 
