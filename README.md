@@ -10,7 +10,7 @@ English | [中文](README_CN.md)
 
 ## ✨ Features
 
-- 🔨 **Automated Mining** - Intelligently scans and mines surrounding ores
+- 🔨 **Automated Mining** - Intelligently scans and mines chunk ores
 - 🌲 **Automated Logging** - Automatically cuts logs and collects drops
 - ⚡ **Redstone Control** - Control on/off with redstone signals
 - 📦 **Item Storage** - Built-in storage system with automatic item collection
