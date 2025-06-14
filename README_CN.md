@@ -6,7 +6,7 @@
 
 一个高效的 Minecraft Fabric 模组，提供自动化挖矿和砍树功能。
 
-[English](README_EN.md) | 中文
+[English](README.md) | 中文
 
 ## ✨ 特性
 
