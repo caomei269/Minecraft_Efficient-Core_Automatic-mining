@@ -3,7 +3,6 @@
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.4-green.svg)](https://minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Fabric-0.97.2-orange.svg)](https://fabricmc.net/)
-[![Build Status](https://github.com/username/ChunkOreAutoMiner/workflows/build/badge.svg)](https://github.com/username/ChunkOreAutoMiner/actions)
 
 一个高效的 Minecraft Fabric 模组，提供自动化挖矿和砍树功能。
 
