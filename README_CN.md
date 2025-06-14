@@ -1,4 +1,4 @@
-# 📖 ChunkOre AutoMiner
+# 📖 自动化核心_自动挖掘
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.4-green.svg)](https://minecraft.net/)
