@@ -27,7 +27,7 @@
 
 ### 安装
 
-1. 下载最新版本的模组文件
+1. 下载最新版本的模组文件 https://curseforge.com/minecraft/mc-mods/efficient-core-automatic-mining
 2. 将 `.jar` 文件放入 `mods` 文件夹
 3. 启动游戏
 
