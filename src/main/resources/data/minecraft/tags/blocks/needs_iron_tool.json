@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "chunkoreautominer:mining_core",
+    "chunkoreautominer:logging_core"
+  ]
+}

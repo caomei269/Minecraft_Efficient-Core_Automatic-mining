@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "chunkoreautominer:block/mining_core"
+    },
+    "powered=true": {
+      "model": "chunkoreautominer:block/mining_core_powered"
+    }
+  }
+}

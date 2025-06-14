@@ -1,0 +1,14 @@
+{
+  "itemgroup.chunkoreautominer": "EfficientCore",
+  "block.chunkoreautominer.mining_core": "Mining Core",
+  "block.chunkoreautominer.logging_core": "Logging Core",
+  "item.chunkoreautominer.mining_core": "Mining Core",
+  "item.chunkoreautominer.logging_core": "Logging Core",
+  "gui.chunkoreautominer.storage_area": "Storage Area",
+  "gui.chunkoreautominer.main_pickaxe": "Main Pickaxe",
+  "gui.chunkoreautominer.boost_pickaxe": "Boost Pickaxe",
+  "gui.chunkoreautominer.log_storage_area": "Log Storage Area",
+  "gui.chunkoreautominer.main_axe": "Main Axe",
+  "gui.chunkoreautominer.boost_axe": "Boost Axe"
+
+}

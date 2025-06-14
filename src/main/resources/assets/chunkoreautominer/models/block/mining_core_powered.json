@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "chunkoreautominer:block/mining_core_bottom",
+    "up": "chunkoreautominer:block/mining_core_top",
+    "north": "chunkoreautominer:block/mining_core_side_powered",
+    "south": "chunkoreautominer:block/mining_core_side_powered",
+    "west": "chunkoreautominer:block/mining_core_side_powered",
+    "east": "chunkoreautominer:block/mining_core_side_powered",
+    "particle": "chunkoreautominer:block/mining_core_side_powered"
+    
+  }
+}

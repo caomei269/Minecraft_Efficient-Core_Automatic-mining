@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "chunkoreautominer",
+	"version": "${version}",
+	"name": "Efficient Core",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/chunkoreautominer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.chunkore.autominer.ChunkOreAutoMiner"
+		],
+		"client": [
+			"com.chunkore.autominer.ChunkOreAutoMinerClient"
+		],
+		"fabric-datagen": [
+			"com.chunkore.autominer.ChunkOreAutoMinerDataGenerator"
+		]
+	},
+	"mixins": [
+		"chunkoreautominer.mixins.json",
+		{
+			"config": "chunkoreautominer.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

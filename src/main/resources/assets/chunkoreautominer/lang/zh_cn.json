@@ -1,0 +1,15 @@
+{
+  "itemgroup.chunkoreautominer": "高效核心",
+  "itemGroup.chunkoreautominer.autochunkworker": "高效核心",
+  "block.chunkoreautominer.mining_core": "挖矿核心",
+  "block.chunkoreautominer.logging_core": "砍树核心",
+  "item.chunkoreautominer.mining_core": "挖矿核心",
+  "item.chunkoreautominer.logging_core": "砍树核心",
+  "gui.chunkoreautominer.storage_area": "储物区",
+  "gui.chunkoreautominer.main_pickaxe": "主镐子",
+  "gui.chunkoreautominer.boost_pickaxe": "加速镐子",
+  "gui.chunkoreautominer.log_storage_area": "原木储存区",
+  "gui.chunkoreautominer.main_axe": "主斧头",
+  "gui.chunkoreautominer.boost_axe": "加速斧头"
+
+}

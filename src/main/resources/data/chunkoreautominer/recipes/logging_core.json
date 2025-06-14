@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IOI",
+    "OAO",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "A": {
+      "item": "minecraft:iron_axe"
+    },
+    "O": {
+      "tag": "minecraft:logs"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "chunkoreautominer:logging_core"
+  }
+}
