@@ -154,8 +154,6 @@ If you find a bug or have a feature suggestion:
 ## 🐛 Known Issues
 
 - [ ] UI text layout overlaps in English interface
-- [ ] Some mod compatibility issues
-- [ ] Large-scale scanning may affect performance
 
 ## 📝 Changelog
 
